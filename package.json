@@ -1,0 +1,24 @@
+{
+  "name": "introduction_to_javascript",
+  "version": "1.0.0",
+  "description": "Curso de Introduccion a JS",
+  "main": "01.HolaMundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dugarerika/Introduction_to_JavaScript.git"
+  },
+  "keywords": [
+    "JS",
+    "Node",
+    "web"
+  ],
+  "author": "Erika Tavera Misas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dugarerika/Introduction_to_JavaScript/issues"
+  },
+  "homepage": "https://github.com/dugarerika/Introduction_to_JavaScript#readme"
+}
